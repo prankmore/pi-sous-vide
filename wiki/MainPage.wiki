@@ -15,5 +15,7 @@ It also opens the system up to a much more flexible system.
 The system consists of several parts
 
 *The raspberry pi
+
 *USB thermometer
+
 *USB controlled solid state relay
