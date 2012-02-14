@@ -14,7 +14,7 @@ It also opens the system up to a much more flexible system.
 
 The system consists of several parts
 
-*The raspberry pi
+*The raspberry pi [http://www.raspberrypi.org]
 
 *USB thermometer
 
