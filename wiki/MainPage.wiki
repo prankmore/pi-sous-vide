@@ -18,4 +18,4 @@ The system consists of several parts
 
 *USB thermometer
 
-*USB controlled solid state relay
+*USB controlled solid state relay UsbRelay
