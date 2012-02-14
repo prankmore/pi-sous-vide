@@ -4,10 +4,10 @@ Information on the USB Relay
 
 Information on the USB Relay
 Bought from
-[http://www.ecrater.co.uk/p/11853067/usb-relay-controller-one-channel?keywords=usb+relay]
+[http://www.ecrater.co.uk/p/11853067/usb-relay-controller-one-channel?keywords=usb+relay here]
 
 Manual 
-[http://www.sigma-shop.com/manuals/USB1RELAY_manual.pdf]
+[http://www.sigma-shop.com/manuals/USB1RELAY_manual.pdf here]
 = Details =
 
 The relay arrived yesterday, so I have had a quick play with it in my lunch break today.
