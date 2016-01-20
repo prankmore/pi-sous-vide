@@ -1,0 +1,2 @@
+A combined software/hardware project that uses a Raspberry Pi to control a Slow Cooker/Rice Cooker to act as a temperature controlled water bath for use in Sous Vide cooking.
+Implemented using python to provide a web frontend for controlling the system
